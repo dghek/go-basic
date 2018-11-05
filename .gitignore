@@ -4,6 +4,7 @@ variables
 constants
 for
 ifelse
+switch
 
 
 
