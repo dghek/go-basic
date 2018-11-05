@@ -1,4 +1,6 @@
 #!/bin/bash
-go build
-go-basic
+git  add .
+git commit -am "updates"
+git push
+
 
