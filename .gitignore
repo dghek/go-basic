@@ -6,6 +6,7 @@ for
 ifelse
 switch
 arrays
+slices
 
 
 
