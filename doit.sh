@@ -6,5 +6,3 @@ git status
 ll *.go
 
 
-
-
