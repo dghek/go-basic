@@ -3,6 +3,6 @@ git  add .
 git commit -am "updates"
 git push
 git status
-ll *.go
+ls --color=auto -altr *.go
 
 
