@@ -27,6 +27,8 @@ channels-synchronization
 channels-direction
 select
 timeouts
+channels-non-blocking
+
 
 
 
