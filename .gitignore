@@ -36,6 +36,8 @@ worker-pools
 atomic-counters
 rate-limiting
 statefull-goroutines
+sorting
+sort-by-functions
 
 
 
