@@ -29,6 +29,8 @@ select
 timeouts
 channels-non-blocking
 channels-closing
+range-over-channels
+timers
 
 
 
