@@ -20,6 +20,9 @@ interfaces_1
 timestamp
 errors
 goroutines
+channels
+loops
+
 
 
 
