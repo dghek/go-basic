@@ -28,6 +28,7 @@ channels-direction
 select
 timeouts
 channels-non-blocking
+channels-closing
 
 
 
