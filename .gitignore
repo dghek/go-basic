@@ -39,6 +39,7 @@ statefull-goroutines
 sorting
 sort-by-functions
 panic
+defer
 
 
 
