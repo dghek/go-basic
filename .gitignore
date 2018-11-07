@@ -23,7 +23,9 @@ goroutines
 channels
 loops
 channels-buffered
-
+channels-synchronization
+channels-direction
+select
 
 
 
