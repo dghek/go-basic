@@ -50,6 +50,9 @@ time
 time-format-parsing
 number-parsing
 random-numbers
+base64-encode-decode
+reading-files
+url-parsing
 
 
 
