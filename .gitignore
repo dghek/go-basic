@@ -45,6 +45,8 @@ string-functions
 string-formatting
 json
 regx
+epoch
+time
 
 
 
