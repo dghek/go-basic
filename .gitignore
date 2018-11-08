@@ -43,6 +43,8 @@ defer
 collection-functions
 string-functions
 string-formatting
+json
+regx
 
 
 
