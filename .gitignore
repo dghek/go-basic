@@ -41,6 +41,8 @@ sort-by-functions
 panic
 defer
 collection-functions
+string-functions
+string-formatting
 
 
 
